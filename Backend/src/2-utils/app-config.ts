@@ -4,7 +4,7 @@ class AppConfig {
     public host = "localhost" // Computer name/ address of our database
     public user = "root" // Database user
     public password = "" // Database password
-    public database = "Placesaroundme" // Database name
+    public database = "vacation_project" // Database name
 
     // Server port
     public port = 3001

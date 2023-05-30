@@ -78,3 +78,47 @@
 -------------------------------
 23.4.2023, 13:47:54 	 connect ECONNREFUSED ::1:3306
 -------------------------------
+30.5.2023, 14:19:29 	 Route / not exist
+-------------------------------
+30.5.2023, 14:19:29 	 Route /favicon.ico not exist
+-------------------------------
+30.5.2023, 14:19:40 	 ER_NO_SUCH_TABLE: Table 'placesaroundme.vacations' doesn't exist
+-------------------------------
+30.5.2023, 14:19:40 	 ER_NO_SUCH_TABLE: Table 'placesaroundme.vacations' doesn't exist
+-------------------------------
+30.5.2023, 14:22:13 	 Route /stores not exist
+-------------------------------
+30.5.2023, 14:23:15 	 Route /stores not exist
+-------------------------------
+30.5.2023, 14:26:52 	 Route /stores not exist
+-------------------------------
+30.5.2023, 14:29:31 	 Route /vacations not exist
+-------------------------------
+30.5.2023, 14:31:01 	 Route /vacations not exist
+-------------------------------
+30.5.2023, 14:31:56 	 Route /vacations not exist
+-------------------------------
+30.5.2023, 14:32:58 	 Route /vacations not exist
+-------------------------------
+30.5.2023, 14:33:13 	 Route /vacations not exist
+-------------------------------
+30.5.2023, 14:35:31 	 Route /vacations not exist
+-------------------------------
+30.5.2023, 14:41:41 	 Route /api/vacations not exist
+-------------------------------
+30.5.2023, 14:44:16 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 6
+-------------------------------
+30.5.2023, 14:44:49 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 6
+-------------------------------
+30.5.2023, 14:45:22 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 6
+-------------------------------
+30.5.2023, 16:26:22 	 "vacationName" length must be at least 3 characters long
+-------------------------------
+30.5.2023, 16:26:44 	 "vacationName" length must be less than or equal to 20 characters long
+-------------------------------
+30.5.2023, 16:27:38 	 "vacationDate" must be a valid date
+-------------------------------
+30.5.2023, 16:27:53 	 "description" length must be at least 10 characters long
+-------------------------------
+30.5.2023, 16:28:00 	 "vacationId" is not allowed
+-------------------------------
