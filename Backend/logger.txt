@@ -122,3 +122,293 @@
 -------------------------------
 30.5.2023, 16:28:00 	 "vacationId" is not allowed
 -------------------------------
+30.5.2023, 17:17:27 	 Unexpected token } in JSON at position 120
+-------------------------------
+30.5.2023, 17:18:38 	 "lastName" length must be at least 2 characters long
+-------------------------------
+30.5.2023, 17:18:49 	 "lastName" length must be less than or equal to 20 characters long
+-------------------------------
+30.5.2023, 17:19:02 	 "username" length must be at least 4 characters long
+-------------------------------
+30.5.2023, 17:19:11 	 "password" length must be at least 4 characters long
+-------------------------------
+30.5.2023, 17:19:23 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+-------------------------------
+30.5.2023, 17:28:01 	 id 4 not exist
+-------------------------------
+30.5.2023, 18:18:42 	 Route /api/Users not exist
+-------------------------------
+30.5.2023, 18:19:01 	 Route /api/auth/register not exist
+-------------------------------
+30.5.2023, 18:19:26 	 Route /api/auth/register not exist
+-------------------------------
+30.5.2023, 18:20:13 	 Route /api/auth/register not exist
+-------------------------------
+30.5.2023, 18:20:53 	 Route /api/auth/register not exist
+-------------------------------
+30.5.2023, 18:21:07 	 Route /api/auth/register not exist
+-------------------------------
+30.5.2023, 18:25:23 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`vacation_project`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`role`) REFERENCES `roles` (`roleId`))
+-------------------------------
+30.5.2023, 18:27:08 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+-------------------------------
+30.5.2023, 18:27:36 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+-------------------------------
+30.5.2023, 18:27:59 	 ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`vacation_project`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`role`) REFERENCES `roles` (`roleId`))
+-------------------------------
+30.5.2023, 18:58:29 	 Route /api/auth/login not exist
+-------------------------------
+30.5.2023, 18:59:37 	 Route /api/auth/login not exist
+-------------------------------
+30.5.2023, 19:02:03 	 incorrect username or password
+-------------------------------
+30.5.2023, 21:06:04 	 Invalid Token
+-------------------------------
+30.5.2023, 21:06:43 	 Invalid Token
+-------------------------------
+30.5.2023, 21:08:56 	 Invalid Token
+-------------------------------
+30.5.2023, 21:09:20 	 incorrect username or password
+-------------------------------
+30.5.2023, 21:09:45 	 Invalid Token
+-------------------------------
+30.5.2023, 21:10:05 	 Invalid Token
+-------------------------------
+7.6.2023, 19:19:33 	 Route /api/theaters not exist
+-------------------------------
+12.6.2023, 15:24:34 	 Route /api/stores/ not exist
+-------------------------------
+12.6.2023, 15:24:34 	 Route /api/stores/ not exist
+-------------------------------
+12.6.2023, 15:25:44 	 Route /api/stores/ not exist
+-------------------------------
+12.6.2023, 15:25:44 	 Route /api/stores/ not exist
+-------------------------------
+12.6.2023, 15:30:01 	 Route /api/stores/ not exist
+-------------------------------
+28.6.2023, 17:23:39 	 Invalid Token
+-------------------------------
+28.6.2023, 17:24:04 	 Invalid Token
+-------------------------------
+28.6.2023, 17:24:06 	 Invalid Token
+-------------------------------
+28.6.2023, 17:24:49 	 Invalid Token
+-------------------------------
+28.6.2023, 17:24:50 	 Invalid Token
+-------------------------------
+28.6.2023, 17:25:06 	 Invalid Token
+-------------------------------
+29.6.2023, 12:24:23 	 Invalid Token
+-------------------------------
+29.6.2023, 12:25:30 	 "vacationDate" must be a valid date
+-------------------------------
+29.6.2023, 12:25:43 	 ENOENT: no such file or directory, open 'C:\react\‏‏fullstack-last-project\Backend\.src\1-assets\images\הורדה.jpeg'
+-------------------------------
+29.6.2023, 12:31:51 	 ENOENT: no such file or directory, open 'C:\react\‏‏fullstack-last-project\Backend\.src\1-assets\images\הורדה.jpeg'
+-------------------------------
+29.6.2023, 12:34:10 	 Invalid Token
+-------------------------------
+29.6.2023, 12:48:14 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+-------------------------------
+29.6.2023, 15:50:03 	 Invalid Token
+-------------------------------
+29.6.2023, 15:50:35 	 ER_BAD_FIELD_ERROR: Unknown column 'NaN' in 'where clause'
+-------------------------------
+29.6.2023, 15:58:45 	 Incorrect username or password
+-------------------------------
+29.6.2023, 15:58:51 	 Incorrect username or password
+-------------------------------
+29.6.2023, 16:11:59 	 Incorrect username or password
+-------------------------------
+29.6.2023, 16:16:46 	 Incorrect username or password
+-------------------------------
+29.6.2023, 16:16:52 	 Incorrect username or password
+-------------------------------
+29.6.2023, 16:17:05 	 Incorrect username or password
+-------------------------------
+29.6.2023, 16:17:29 	 Incorrect username or password
+-------------------------------
+29.6.2023, 16:39:03 	 Incorrect username or password
+-------------------------------
+29.6.2023, 16:39:44 	 Incorrect username or password
+-------------------------------
+29.6.2023, 16:47:59 	 Cannot convert undefined or null to object
+-------------------------------
+29.6.2023, 17:15:13 	 Username liel already taken
+-------------------------------
+29.6.2023, 17:22:51 	 Username liel already taken
+-------------------------------
+29.6.2023, 17:22:53 	 Username liel already taken
+-------------------------------
+29.6.2023, 17:23:08 	 Username liel already taken
+-------------------------------
+29.6.2023, 17:23:09 	 Username liel already taken
+-------------------------------
+29.6.2023, 17:23:10 	 Username liel already taken
+-------------------------------
+29.6.2023, 18:10:40 	 Invalid Token
+-------------------------------
+29.6.2023, 18:25:42 	 Route /api/vacations not exist
+-------------------------------
+29.6.2023, 18:26:29 	 Route /api/vacations not exist
+-------------------------------
+29.6.2023, 18:26:44 	 "image" is required
+-------------------------------
+29.6.2023, 18:27:05 	 "image" is required
+-------------------------------
+29.6.2023, 18:27:24 	 "image" is required
+-------------------------------
+29.6.2023, 18:28:07 	 "image" is required
+-------------------------------
+29.6.2023, 18:28:24 	 "image" is required
+-------------------------------
+29.6.2023, 18:28:31 	 "image" is required
+-------------------------------
+29.6.2023, 18:28:42 	 "image" is required
+-------------------------------
+29.6.2023, 18:30:51 	 id undefined not exist
+-------------------------------
+29.6.2023, 18:31:41 	 id undefined not exist
+-------------------------------
+29.6.2023, 18:33:27 	 id undefined not exist
+-------------------------------
+29.6.2023, 18:34:49 	 id undefined not exist
+-------------------------------
+29.6.2023, 18:36:58 	 id undefined not exist
+-------------------------------
+29.6.2023, 18:37:24 	 id undefined not exist
+-------------------------------
+29.6.2023, 18:37:39 	 id undefined not exist
+-------------------------------
+29.6.2023, 18:38:03 	 id undefined not exist
+-------------------------------
+29.6.2023, 18:39:51 	 id undefined not exist
+-------------------------------
+29.6.2023, 18:45:13 	 Route /api/vacations/10 not exist
+-------------------------------
+29.6.2023, 18:47:00 	 Route /api/vacations/10 not exist
+-------------------------------
+29.6.2023, 18:47:06 	 Route /api/vacations/10 not exist
+-------------------------------
+29.6.2023, 19:09:58 	 "imageName" is required
+-------------------------------
+29.6.2023, 19:12:40 	 Route /api/vacations/7 not exist
+-------------------------------
+29.6.2023, 19:12:47 	 Invalid Token
+-------------------------------
+29.6.2023, 19:20:00 	 id 11 not exist
+-------------------------------
+29.6.2023, 20:33:04 	 Invalid Token
+-------------------------------
+29.6.2023, 20:38:26 	 Cannot read properties of undefined (reading 'imageName')
+-------------------------------
+29.6.2023, 20:39:05 	 Cannot read properties of undefined (reading 'imageName')
+-------------------------------
+29.6.2023, 20:44:20 	 EPERM: operation not permitted, unlink './src/1-assets/images/'
+-------------------------------
+29.6.2023, 20:53:40 	 info1.stringify is not a function
+-------------------------------
+29.6.2023, 20:56:37 	 Unexpected token o in JSON at position 1
+-------------------------------
+29.6.2023, 21:53:28 	 EPERM: operation not permitted, unlink './src/1-assets/images/'
+-------------------------------
+29.6.2023, 21:57:32 	 EPERM: operation not permitted, unlink './src/1-assets/images/'
+-------------------------------
+29.6.2023, 21:58:20 	 EPERM: operation not permitted, unlink './src/1-assets/images/'
+-------------------------------
+29.6.2023, 22:07:06 	 EPERM: operation not permitted, unlink './src/1-assets/images/'
+-------------------------------
+29.6.2023, 22:08:18 	 EPERM: operation not permitted, unlink './src/1-assets/images/'
+-------------------------------
+29.6.2023, 22:08:22 	 EPERM: operation not permitted, unlink './src/1-assets/images/'
+-------------------------------
+29.6.2023, 22:19:37 	 only admin can do it!
+-------------------------------
+29.6.2023, 23:33:20 	 Incorrect username or password
+-------------------------------
+29.6.2023, 23:33:24 	 Incorrect username or password
+-------------------------------
+29.6.2023, 23:34:10 	 "username" length must be at least 4 characters long
+-------------------------------
+29.6.2023, 23:34:21 	 Username LAdmin already taken
+-------------------------------
+29.6.2023, 23:34:31 	 Username Ladmin already taken
+-------------------------------
+29.6.2023, 23:34:38 	 Username admin already taken
+-------------------------------
+29.6.2023, 23:34:44 	 Username adminn already taken
+-------------------------------
+29.6.2023, 23:34:50 	 Username adminnnn already taken
+-------------------------------
+29.6.2023, 23:39:10 	 only admin can do it!
+-------------------------------
+29.6.2023, 23:39:13 	 only admin can do it!
+-------------------------------
+29.6.2023, 23:41:22 	 only admin can do it!
+-------------------------------
+29.6.2023, 23:41:23 	 only admin can do it!
+-------------------------------
+29.6.2023, 23:41:37 	 only admin can do it!
+-------------------------------
+29.6.2023, 23:43:13 	 only admin can do it!
+-------------------------------
+29.6.2023, 23:43:14 	 only admin can do it!
+-------------------------------
+29.6.2023, 23:43:17 	 only admin can do it!
+-------------------------------
+29.6.2023, 23:45:02 	 only admin can do it!
+-------------------------------
+29.6.2023, 23:46:20 	 you MUST to login to continue
+-------------------------------
+29.6.2023, 23:46:30 	 you MUST to login to continue
+-------------------------------
+29.6.2023, 23:51:22 	 Username lielA already taken
+-------------------------------
+29.6.2023, 23:55:24 	 Username 54321 already taken
+-------------------------------
+29.6.2023, 23:57:33 	 Username 54321 already taken
+-------------------------------
+29.6.2023, 23:58:29 	 Username 54321 already taken
+-------------------------------
+29.6.2023, 23:58:32 	 Username 54321 already taken
+-------------------------------
+29.6.2023, 23:58:46 	 Username abcde already taken
+-------------------------------
+29.6.2023, 23:58:48 	 Username abcde already taken
+-------------------------------
+29.6.2023, 23:58:52 	 Username abcde already taken
+-------------------------------
+30.6.2023, 0:03:28 	 Username abcde already taken
+-------------------------------
+30.6.2023, 0:03:30 	 Username abcde already taken
+-------------------------------
+30.6.2023, 0:03:36 	 Username abcdE already taken
+-------------------------------
+30.6.2023, 0:03:44 	 Username abgfhc already taken
+-------------------------------
+30.6.2023, 0:04:26 	 Username abgfhc already taken
+-------------------------------
+30.6.2023, 0:12:12 	 count[0].lastIndexOf is not a function
+-------------------------------
+30.6.2023, 0:13:26 	 count[0].lastIndexOf is not a function
+-------------------------------
+30.6.2023, 0:29:29 	 count2.slice is not a function
+-------------------------------
+30.6.2023, 0:41:13 	 Username abgfhc already taken
+-------------------------------
+30.6.2023, 0:43:26 	 Username TheBoss already taken
+-------------------------------
+30.6.2023, 0:44:22 	 Username nivHamagniv already taken
+-------------------------------
+30.6.2023, 0:46:40 	 only admin can do it!
+-------------------------------
+30.6.2023, 0:49:18 	 only admin can do it!
+-------------------------------
+30.6.2023, 0:49:44 	 only admin can do it!
+-------------------------------
+30.6.2023, 0:50:13 	 only admin can do it!
+-------------------------------
+30.6.2023, 0:50:35 	 only admin can do it!
+-------------------------------
+30.6.2023, 1:05:04 	 "vacationName" is required
+-------------------------------

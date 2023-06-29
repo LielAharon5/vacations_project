@@ -1,16 +1,31 @@
+
 class AppConfig {
-
-    // Database
-    public host = "localhost" // Computer name/ address of our database
-    public user = "root" // Database user
-    public password = "" // Database password
-    public database = "vacation_project" // Database name
-
-    // Server port
-    public port = 3001
-
+    public salesEmail = "";
+    public helpPage = "";
 }
 
-const appConfig = new AppConfig()
+class DevelopmentConfig extends AppConfig {
+    public isDevelopment = true;
+    public isProduction = false;
+    public host = "localhost";
+    public user = "root";
+    public password = "";
+    public database = "vacation_project";
+    public port = 3001;
+    public frontEndUrl = "http://localhost:3000";
+}
 
-export default appConfig
+class ProductionConfig extends AppConfig {
+    public isDevelopment = false;
+    public isProduction = true;
+    public host = "";
+    public user = "";
+    public password = "";
+    public database = "";
+    public port = 0;
+    public frontEndUrl = "";
+}
+
+const appConfig = (process.env.NODE_ENV === "production") ? new ProductionConfig() : new DevelopmentConfig();
+
+export default appConfig;
