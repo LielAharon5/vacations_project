@@ -65,7 +65,10 @@ const reports =  5
         addVacation,
         deleteVacation, 
         updateVacation,
+<<<<<<< HEAD
         getReports
+=======
+>>>>>>> 40eebe707e4fff09b75b761e2376cae25a9820d6
 
 }
 
