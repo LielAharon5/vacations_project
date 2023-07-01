@@ -1,0 +1,24 @@
+.Home > table {
+    margin:auto
+}
+
+.Home > table,
+.Home th,
+.Home td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.Home tr:nth-child(even) {
+    background-color: pink;
+}
+
+.Home tr:nth-child(odd) {
+    background-color: lightsalmon;
+}
+
+.Home thead tr:first-child {
+    background-color: lightgrey;
+}
+

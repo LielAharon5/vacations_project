@@ -1,0 +1,14 @@
+
+.ContactUs>form {
+    width: 250px;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    text-align: left;
+}
+
+.ContactUs input,
+.ContactUs button {
+    width: 100%
+}

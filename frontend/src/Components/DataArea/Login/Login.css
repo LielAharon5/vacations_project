@@ -1,0 +1,12 @@
+.Login > .FormContainer {
+    width: 250px;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    text-align: left;	
+}
+.Login input, .Login button{
+    width:100%
+}
+    
